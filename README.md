@@ -25,11 +25,17 @@ The model is built using **PyTorch** and follows a **Sequence-to-Sequence (Seq2S
 ```
 
 project/
+
 │── data/
+
 │   ├── umc005-corpus/quran.txt
+
 │   ├── umc005-corpus/bible.txt
+
 │── best\_model.pt        # Saved best model
+
 │── code.ipynb           # Jupyter Notebook with full implementation
+
 │── README.md            # Project documentation
 
 ````
